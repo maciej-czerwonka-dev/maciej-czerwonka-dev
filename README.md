@@ -5,5 +5,3 @@
 - 📫 How to reach me through.... Email
 
 Nearly all of my repos are private so check out my [portfolio](https:czerwonka.dev) where I have all my projects
-
-I run Arch btw 🐧
