@@ -1,7 +1,19 @@
-- 👋 Hi, I’m Maciej (@maciej-czerwonka-dev)
-- 👀 I’m interested in graphic design, front-end development and Scouting
-- 🌱 I’m currently learning Javascript and it's many libaries
-- 💞️ I’m looking to collaborate on anything but mainly web
-- 📫 How to reach me through.... Email
+Hi, I'm **Maciej Czerwonka** and I'm a:
+- UX/UI designer 📱
+- graphic designer 🖌️
+- front-end web developer 👩‍💻🌐
+- scout instructor ⚜️
 
-Nearly all of my repos are private so check out my [portfolio](https://czerwonka.dev) where I have all my projects
+---
+
+Nearly all of my repos are private so check out my [portfolio](https://czerwonka.dev) where I have all my work ✨
+
+---
+
+I'm open for any collaborations 😁
+
+---
+
+If you're interested to hire me why not send me an [email](mailto:maciej@czerwonka.dev) or use the contact form on my [site](https://czerwonka.dev/contact) 🚀
+
+
