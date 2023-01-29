@@ -16,4 +16,6 @@ I'm open for any collaborations 😁
 
 If you're interested to hire me why not send me an [email](mailto:maciej@czerwonka.dev) or use the contact form on my [site](https://czerwonka.dev/contact) 🚀
 
+---
 
+[Imprint](https://czerwonka.dev/imprint), [Privacy Policy](https://czerwonka.dev/privacy-policy) (Information required by the German Telemedian Act ⚖️)
