@@ -2,7 +2,6 @@ Hi, I'm **Maciej Czerwonka** and I'm a:
 - UX/UI designer
 - graphic designer
 - front-end web dev
-- scout instructor
 
 ---
 
