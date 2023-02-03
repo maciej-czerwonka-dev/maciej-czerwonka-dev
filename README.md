@@ -5,7 +5,7 @@
 
 ---
 
-Nearly all of my repos are private so check out my [portfolio](https://czerwonka.dev) where I have all my work ✨
+Nearly all of my repos are private so check out my <a href="https://czerwonka.dev" target="_blank">portfolio</a> where I have all my work ✨
 
 
 
@@ -13,4 +13,4 @@ If you're interested to hire me or colab on something why not send me an [email]
 
 ---
 
-[Imprint](https://czerwonka.dev/imprint) (required by the German Telemedian Act ⚖️)
+<a href="https://czerwonka.dev/imprint" target="_blank">Imprint</a> (required by the German Telemedian Act ⚖️)
