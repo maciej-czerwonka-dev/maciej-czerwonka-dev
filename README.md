@@ -1,4 +1,4 @@
-### Hi, I'm **Maciej Czerwonka** and I'm a:
+### Hi, I'm Maciej Czerwonka and I'm a:
 - UX/UI designer 📱
 - graphic designer 🖌
 - front-end web developer 🧑🏻‍💻🌐
