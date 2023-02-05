@@ -15,4 +15,4 @@ If you're interested to hire me or colab on something why not send me an [email]
 
 ---
 
-[Imprint](https://czerwonka.dev/imprint) (required by the German Telemedian Act ⚖️)
+[Imprint](https://czerwonka.dev/imprint) (required by the German Telemedia Act ⚖️)
