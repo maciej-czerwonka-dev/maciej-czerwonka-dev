@@ -1,4 +1,4 @@
-![banner-github.web](https://drive.google.com/uc?export=download&id=1X-JYKCESxzEbB1KbAMXNw6FsGh-3OotK)
+<a href=https://czerwonka.dev target=_blank><img src="https://drive.google.com/uc?export=download&id=1X-JYKCESxzEbB1KbAMXNw6FsGh-3OotK"></a>
 
 ### Hi, I'm Maciej Czerwonka and I'm a:
 - UX/UI designer 📱
