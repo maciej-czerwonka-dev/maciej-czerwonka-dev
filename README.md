@@ -15,4 +15,8 @@ If you're interested to hire me or colab on something why not send me an [email]
 
 ---
 
+Donations are gladly accepted through [PayPal](https://paypal.me/MaciejCzerwonkaDEV) or you can [Buy Me a Pineapple](https://www.buymeacoffee.com/maciejczerwonka)
+
+---
+
 [Imprint](https://czerwonka.dev/imprint) (required by the German Telemedia Act ⚖️)
