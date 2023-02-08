@@ -1,4 +1,4 @@
-![banner-github.webp](banner-github.webp)
+
 
 ### Hi, I'm Maciej Czerwonka and I'm a:
 - UX/UI designer 📱
