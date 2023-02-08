@@ -1,9 +1,9 @@
-![banner-github.webp](https://drive.google.com/uc?export=download&id=1X-JYKCESxzEbB1KbAMXNw6FsGh-3OotK)
+![banner-github.webp](banner-github.webp)
 
 ### Hi, I'm Maciej Czerwonka and I'm a:
 - UX/UI designer 📱
 - graphic designer 🖌
-- front-end web developer 🧑🏻‍💻🌐
+- web developer 🧑🏻‍💻🌐
 
 ---
 
@@ -15,8 +15,8 @@ If you're interested to hire me or colab on something why not send me an [email]
 
 ---
 
-Donations are gladly accepted through [PayPal](https://paypal.me/MaciejCzerwonkaDEV) 🫐 or you can [Buy Me a Pineapple](https://www.buymeacoffee.com/maciejczerwonka) 🍍
+Donations are gladly accepted through [PayPal](https://paypal.me/MaciejCzerwonkaDEV) 🫐 or you can [Buy Me a Coffee](https://www.buymeacoffee.com/maciejczerwonka) ☕
 
 ---
 
-[Imprint](https://czerwonka.dev/imprint) 💙💜
+[Imprint](https://czerwonka.dev/imprint) 💙
