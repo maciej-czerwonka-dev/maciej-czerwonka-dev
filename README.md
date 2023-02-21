@@ -11,7 +11,7 @@ Nearly all of my repos are private so check out my [portfolio](https://czerwonka
 
 
 
-If you're interested to hire me or colab on something why not send me an [email](mailto:maciej@czerwonka.dev) 📩
+If you're interested to hire me then just simply send me an [email](mailto:maciej@czerwonka.dev) 📩
 
 ---
 
