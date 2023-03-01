@@ -1,4 +1,4 @@
-![banner](banner-github__.svg)
+![banner](banner-gh__.svg)
 
 ### Hi, I'm Maciej Czerwonka and I'm a:
 - UX/UI designer 📱
