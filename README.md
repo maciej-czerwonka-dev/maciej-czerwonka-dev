@@ -1,6 +1,6 @@
 ![banner](banner-github.svg)
 
-Hi, I'm Maciej Czerwonka and I'm a UX/UI designer, graphic designer and web developer with over 2 years of experience.
+I'm a UX/UI designer, graphic designer and web developer with over 2 years of experience.
 
 ---
 
