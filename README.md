@@ -1,6 +1,6 @@
 ![banner](banner-github.svg)
 
-I'm a UX/UI designer, graphic designer and web developer with over 2 years of experience.
+I'm a UI designer, graphic designer and web developer with over 2 years of experience.
 
 ---
 
