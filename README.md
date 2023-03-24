@@ -1,6 +1,7 @@
 ![banner](banner-github.svg)
 
-I'm a graphic designer and web developer with over 2 years of experience.
+
+Graphic designer and web developer with over 2 years of experience.
 
 ---
 
