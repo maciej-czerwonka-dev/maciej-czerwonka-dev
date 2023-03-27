@@ -1,7 +1,7 @@
 ![banner](github.svg)
 
 
-Graphic designer and web developer with more than 2 years of experience.
+Graphic designer and web developer with over 2 years of experience.
 
 ---
 
