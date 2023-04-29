@@ -1,4 +1,4 @@
-![banner](github.svg)
+![banner](gh.svg)
 
 
 Graphic designer and web developer with over 2 years of experience.
