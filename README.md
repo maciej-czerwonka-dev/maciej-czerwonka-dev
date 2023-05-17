@@ -11,4 +11,4 @@ Nearly all of my repos are private so check out my [portfolio](https://czerwonka
 If you're interested in hiring me then just simply [contact me](https://czerwonka.dev/contact).
 
 
-Donations are gladly accepted through [PayPal](https://paypal.me/MaciejCzerwonkaDEV) or you can [Buy Me a Coffee](https://www.buymeacoffee.com/maciejczerwonka).
+Donations are gladly accepted through [PayPal](https://www.paypal.com/donate/?hosted_button_id=LWYAED68VTPY6) or you can [Buy Me a Coffee](https://www.buymeacoffee.com/maciejczerwonka).
